@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://webberciana.github.io/bierzo/sitemap.xml
